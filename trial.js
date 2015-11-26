@@ -63,7 +63,8 @@ var cannon, cannonDirection = new THREE.Vector3(), lastShotTime;
 var levelIndex, levelStartTime, alreadyWon, gameStarted;
 var numTargets = numCannonballsFired = totalCannonballsFired = totalTargets = 0;
 
-var woodTexture, textMaterial, targetPlatformMaterial, targetGeometry, targetMaterial, cannonballGeometry, cannonballMaterial, cannonSound;
+var woodTexture, textMaterial, targetPlatformMaterial, targetGeometry, targetMaterial, cannonballGeometry, cannonballMaterial;
+var boomSound, blagSound;
 var capsuleGeometry, capsuleMaterial, torusGeometry, torusMaterial;
 
 var oceanTexture, oceanHeightMapScene, oceanHeightMap, oceanHeightMapCamera;
@@ -447,9 +448,10 @@ var handleCollision = function (collided_with, linearVelocity, angularVelocity) 
     var wall = 'wall';
 
     if(0 === ground.localeCompare(collided_with.name)) {
+        blagSound.play();
         console.log('BLAG!');
     } else if(0 === wall.localeCompare(collided_with.name)) {
-        cannonSound.play();
+        boomSound.play();
         console.log('BOOM!');
         scene.remove(this);
         parts.push(new ExplodeAnimation(this.position.x, this.position.y));
@@ -584,7 +586,8 @@ function loadResources() {
     });
 
     // Load sounds.
-    cannonSound = new AudioPool('./resources/cannonball.mp3', 0.5, 3);
+    boomSound = new AudioPool('./resources/cannonball.mp3', 0.5, 3);
+    blagSound = new AudioPool('./resources/m1-garand-single.mp3', 0.5, 3);
 }
 
 function initScene() {
