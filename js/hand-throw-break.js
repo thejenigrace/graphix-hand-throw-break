@@ -1,17 +1,3 @@
-//////////////settings/////////
-var movementSpeed = 80;
-var totalObjects = 500;
-var objectSize = 10;
-var sizeRandomness = 4000;
-
-/////////////////////////////////
-var dirs = [];
-var parts = [];
-
-// NOTE: The hand is located at the center of the scene and faces in the
-// positive direction of the z-axis. The x-axis is horizontal and the y-axis is
-// vertical relative to the hand platform.
-
 // Constants
 // =============================================================================
 var BALL_RADIUS = 4;
@@ -26,7 +12,7 @@ var WALL_WIDTH = 200;
 var WALL_HEIGHT = 80;
 var WALL_MASS = 0;
 var WRIST_LENGTH = 6;
-var COLORS = [0xFF0FFF, 0xCCFF00, 0xFF000F, 0x996600, 0xFFFFFF];
+var COLORS = [0xFF0FFF, 0xCCFF00, 0xFF000F, 0x996600, 0xFFFFFF, 0x000000, 0x9900FF, 0xFF6600];
 
 // Globals
 // =============================================================================
@@ -42,6 +28,16 @@ var ballGeometry, ballMaterial, capsuleGeometry, capsuleMaterial, torusGeometry,
 var boomSound, blagSound;
 
 var itemIsBall, itemIsCapsule, itemIsTorus, itemColorIndex;
+
+//////////////settings/////////
+var movementSpeed = 80;
+var totalObjects = 500;
+var objectSize = 10;
+var sizeRandomness = 4000;
+
+/////////////////////////////////
+var dirs = [];
+var parts = [];
 
 // Helper functions
 // =============================================================================
@@ -496,7 +492,6 @@ function explodeAnimation(x, y) {
             this.object.geometry.verticesNeedUpdate = true;
         }
     }
-
 }
 
 function render() {

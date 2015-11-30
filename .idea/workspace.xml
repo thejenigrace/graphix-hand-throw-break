@@ -2,54 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa474cc3-0e23-47fb-9bce-04b960194c2c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/icon/help.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/hand-throw-break.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cloud.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/explosion.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/explosion.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/explosion.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/brick.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/icon/bird.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/icon/camera.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/icon/eye.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/icon/help.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/icon/home.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/icon/retry.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/icon/start.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/icon/stop.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/Detector.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/PointerLockControls.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modifiers/ExplodeModifier.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modifiers/TessellateModifier.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/simplex-noise.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/three.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/tween.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lol.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/Woodgod_Regular.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/ocean.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/splash-sprite.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/wood.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/woodgod.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/woodgod.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/trial.js" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/trial.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font/DejaVuSansMono.ttf" afterPath="$PROJECT_DIR$/resources/font/DejaVuSansMono.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/image/ball.jpg" afterPath="$PROJECT_DIR$/resources/image/ball.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/image/cloud.png" afterPath="$PROJECT_DIR$/resources/image/cloud.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/image/grass.png" afterPath="$PROJECT_DIR$/resources/image/grass.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/image/grasslight-big.jpg" afterPath="$PROJECT_DIR$/resources/image/grass-light.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/image/plywood.jpg" afterPath="$PROJECT_DIR$/resources/image/plywood.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/image/rocks.jpg" afterPath="$PROJECT_DIR$/resources/image/rocks.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/image/skyboxsun25degtest.png" afterPath="$PROJECT_DIR$/resources/image/skyboxsun25degtest.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/image/wood.jpg" afterPath="$PROJECT_DIR$/resources/image/wood.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/brick.jpg" afterPath="$PROJECT_DIR$/resources/image/brick.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/cannonball.mp3" afterPath="$PROJECT_DIR$/resources/audio/boom.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/m1-garand-single.mp3" afterPath="$PROJECT_DIR$/resources/audio/blag.mp3" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/three.min.js" afterPath="$PROJECT_DIR$/js/three.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/hand-throw-break.js" afterPath="$PROJECT_DIR$/js/hand-throw-break.js" />
     </list>
     <ignored path="htb-4.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -69,7 +24,20 @@
     <favorites_list name="htb-4" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="hand-throw-break.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/hand-throw-break.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="1.1262525">
+              <caret line="77" column="39" selection-start-line="77" selection-start-column="4" selection-end-line="77" selection-end-column="39" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -100,8 +68,8 @@
         <option value="$PROJECT_DIR$/js/three.js" />
         <option value="$PROJECT_DIR$/js/three.min.js" />
         <option value="$PROJECT_DIR$/trial.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/hand-throw-break.js" />
       </list>
     </option>
@@ -112,10 +80,9 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1918" />
     <option name="y" value="23" />
-    <option name="width" value="1920" />
-    <option name="height" value="1053" />
+    <option name="width" value="1440" />
+    <option name="height" value="873" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -142,6 +109,16 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htb-4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
           <PATH>
@@ -154,14 +131,18 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
-        </subPane>
-      </pane>
-      <pane id="ProjectPane">
-        <subPane>
           <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="htb-4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="hand-throw-break">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="js">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -292,30 +273,36 @@
       <option name="project" value="LOCAL" />
       <updated>1448497583824</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Change File Structure and Optimize Code for hold-throw-break.js">
+      <created>1448507728038</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1448507728038</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1918" y="23" width="1920" height="1053" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="873" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17746182" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17688513" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882413" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32778355" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32694763" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24960506" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298647" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32950193" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39974457" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882413" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39974457" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -323,7 +310,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added Blag Sound and Boom Sound" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Blag Sound and Boom Sound" />
+    <MESSAGE value="Clean code" />
+    <MESSAGE value="Change File Structure and Optimize Code for hold-throw-break.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change File Structure and Optimize Code for hold-throw-break.js" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -332,6 +321,16 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/js/hand-throw-break.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -352,7 +351,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -368,7 +369,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -384,7 +387,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -400,7 +405,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="44" column="51" selection-start-line="44" selection-start-column="51" selection-end-line="44" selection-end-column="51" />
-          <folding />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -464,7 +471,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="83" column="15" selection-start-line="83" selection-start-column="15" selection-end-line="83" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -494,14 +500,6 @@
     <entry file="file://$PROJECT_DIR$/resources/icon/ball.png">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-33.86207">
-          <caret line="47" column="56" selection-start-line="47" selection-start-column="56" selection-end-line="47" selection-end-column="56" />
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/image/ball.jpg">
@@ -553,15 +551,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44444445">
+          <caret line="46" column="15" selection-start-line="46" selection-start-column="15" selection-end-line="46" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/hand-throw-break.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4642857">
-          <caret line="114" column="25" selection-start-line="114" selection-start-column="25" selection-end-line="114" selection-end-column="25" />
-          <folding />
+        <state vertical-scroll-proportion="1.1262525">
+          <caret line="77" column="39" selection-start-line="77" selection-start-column="4" selection-end-line="77" selection-end-column="39" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
